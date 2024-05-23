@@ -2,7 +2,7 @@ import React from "react";
 
 const Sidebar1 = () => {
   return (
-    <aside className="bg-white text-gray-500 w-20 h-full flex flex-col justify-between p-4">
+    <aside className="bg-gray-50 text-gray-500 w-20 h-full flex flex-col justify-between p-4">
       <nav className="flex flex-col space-y-2">
         <ul className="space-y-2">
           <li className="block p-2">
@@ -11,8 +11,8 @@ const Sidebar1 = () => {
           <li className="block p-2">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="28"
-              height="28"
+              width="26"
+              height="26"
               fill="#9ca3af"
               viewBox="0 0 256 256"
               className="hover:fill-violet-600"
@@ -23,8 +23,8 @@ const Sidebar1 = () => {
           <li className="block p-2 rounded">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="28"
-              height="28"
+              width="26"
+              height="26"
               fill="#9ca3af"
               viewBox="0 0 256 256"
               className="hover:fill-violet-600"
@@ -35,8 +35,8 @@ const Sidebar1 = () => {
           <li className="block p-2 rounded">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="28"
-              height="28"
+              width="26"
+              height="26"
               fill="#9ca3af"
               viewBox="0 0 256 256"
               className="hover:fill-violet-600"
@@ -47,8 +47,8 @@ const Sidebar1 = () => {
           <li className="block p-2 rounded">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="28"
-              height="28"
+              width="26"
+              height="26"
               fill="#9ca3af"
               viewBox="0 0 256 256"
               className="hover:fill-violet-600"
@@ -59,8 +59,8 @@ const Sidebar1 = () => {
           <li className="block p-2 rounded">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="28"
-              height="28"
+              width="26"
+              height="26"
               fill="#9ca3af"
               viewBox="0 0 256 256"
               className="hover:fill-violet-600"
@@ -75,8 +75,8 @@ const Sidebar1 = () => {
           <li className="block p-2 rounded">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="28"
-              height="28"
+              width="26"
+              height="26"
               fill="#9ca3af"
               viewBox="0 0 256 256"
               className="hover:fill-violet-600"
@@ -87,8 +87,8 @@ const Sidebar1 = () => {
           <li className="block p-2 rounded">
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="28"
-              height="28"
+              width="26"
+              height="26"
               fill="#9ca3af"
               viewBox="0 0 256 256"
               className="hover:fill-violet-600"
