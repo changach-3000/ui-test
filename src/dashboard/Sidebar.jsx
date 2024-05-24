@@ -9,7 +9,7 @@ const Sidebar = () => {
       {/* Add title and button */}
       <nav>
         <h1 className="text-gray-500 text-2xl mb-5">Chat</h1>
-        <button className="bg-violet-800 text-white rounded-full flex gap-2 justify-center w-52 p-2 text-sm">
+        <button className="bg-violet-800 text-white rounded-full flex gap-2 justify-center w-52 p-2 text-sm shadow-violet-800 hover:shadow-lg">
           <span>
             <svg
               xmlns="http://www.w3.org/2000/svg"
