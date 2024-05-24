@@ -1,0 +1,40 @@
+{
+    "profiles": [
+      {
+        "id": 1,
+        "profileImage": "Henry.jpeg",
+        "name": "Henry G.",
+        "jobTitle": "Business Analyst",
+        "timeOnline": "3 minutes ago"
+      },
+      {
+        "id": 2,
+        "profileImage": "Melany-profile.jpeg",
+        "name": "Melany W.",
+        "jobTitle": "Web Developer",
+        "timeOnline": "30 minutes ago"
+      },
+      {
+        "id": 3,
+        "profileImage": "Esteban.jpeg",
+        "name": "Esteban C.",
+        "jobTitle": "UI/UX Designer",
+        "timeOnline": "1 day ago"
+      },
+      {
+        "id": 4,
+        "profileImage": "Tara.jpeg",
+        "name": "Tara S.",
+        "jobTitle": "UI/UX Designer",
+        "timeOnline": "1 day ago"
+      },
+      {
+        "id": 5,
+        "profileImage": "Alice.jpeg",
+        "name": "Alice C.",
+        "jobTitle": "Software Engineering",
+        "timeOnline": "2 days ago"
+      }
+    ]
+  }
+  
